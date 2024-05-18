@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Django,c,c++,java**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sadiqahmed2001](https://github.com/sadiqahmed2001)
+- 👨‍💻 All of my projects are available at [https://github.com/sadiqahmed2001](https://github.com/sadiqahmed2001)  
 
 - 📝 My Work linktree [https://linktr.ee/SADIQAHMED2001](https://linktr.ee/SADIQAHMED2001)
 
